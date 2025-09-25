@@ -7,8 +7,10 @@ Para rodar o projeto é necessario instalar as dependências:
 - n8n 
 - PostgreSQL
 
-Em `custom-nodes/random-node` utilize o comando `npm run build` e depois utilize `docker compose restart n8n` para atualizar o projeto
 
+Em `custom-nodes/random-node` utilize o comando `npm run build` e depois utilize `docker compose restart n8n` para atualizar o projeto.
+
+Abra o n8n no navegador: http://localhost:5678
 
 ## Referências 
 - [n8n Custom Nodes Documentation](https://docs.n8n.io/nodes/creating-nodes/)
