@@ -15,3 +15,4 @@ Em `custom-nodes/random-node` utilize o comando `npm run build` e depois utilize
 - [Random.org HTTP API](https://api.random.org/)
 - [ChatGPT](https://chat.openai.com/)
 - [Código Fonte TV](https://www.youtube.com/watch?v=UDWEAMwS7rg)
+- [MAHAL](https://www.youtube.com/watch?v=AfWeRBSr95Q)
